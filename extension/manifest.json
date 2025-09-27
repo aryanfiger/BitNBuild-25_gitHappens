@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Review Radar",
+  "version": "1.0",
+  "description": "Open Review Radar for the current product page",
+  "permissions": ["activeTab", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
